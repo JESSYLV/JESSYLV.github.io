@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,O as l}from"./chunks/framework.5d9d2abb.js";const A=JSON.parse('{"title":"闭包的理解与应用","description":"","frontmatter":{},"headers":[],"relativePath":"articles/闭包.md"}'),o={name:"articles/闭包.md"},e=l("",13),t=[e];function p(i,c,r,u,d,C){return n(),a("div",null,t)}const g=s(o,[["render",p]]);export{A as __pageData,g as default};
