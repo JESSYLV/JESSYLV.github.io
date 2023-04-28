@@ -1,6 +1,5 @@
 export default {
     title: 'notebook', //站点标题
-    base:'/docs/',
     description: '个人笔记博客',
     themeConfig: {
         siteTitle: "JessyNoteBook",
