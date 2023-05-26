@@ -22,6 +22,14 @@ export default {
                   {
                     text: "闭包",
                     link: "/articles/闭包",
+                  },
+                  {
+                    text: "类数组对象与arguments",
+                    link: "/articles/类数组对象与arguments",
+                  },
+                  {
+                    text: "前端模块化",
+                    link: "/articles/前端模块化",
                   }
                 ],
               },
