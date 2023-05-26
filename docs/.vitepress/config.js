@@ -24,6 +24,10 @@ export default {
                     link: "/articles/闭包",
                   },
                   {
+                    text: "创建对象的多种模式&优缺点",
+                    link: "/articles/创建对象的多种模式&优缺点",
+                  },
+                  {
                     text: "类数组对象与arguments",
                     link: "/articles/类数组对象与arguments",
                   },
