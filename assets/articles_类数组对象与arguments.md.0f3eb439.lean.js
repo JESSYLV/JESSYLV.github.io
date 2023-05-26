@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,O as l}from"./chunks/framework.0d343703.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/类数组对象与arguments.md"}'),p={name:"articles/类数组对象与arguments.md"},o=l("",20),e=[o];function t(c,r,y,D,F,C){return n(),a("div",null,e)}const u=s(p,[["render",t]]);export{i as __pageData,u as default};
