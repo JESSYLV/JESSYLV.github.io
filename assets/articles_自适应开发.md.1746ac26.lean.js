@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,O as l}from"./chunks/framework.0d343703.js";const D=JSON.parse('{"title":"自适应开发","description":"","frontmatter":{},"headers":[],"relativePath":"articles/自适应开发.md"}'),e={name:"articles/自适应开发.md"},p=l("",9),t=[p];function o(c,i,r,C,A,d){return a(),n("div",null,t)}const m=s(e,[["render",o]]);export{D as __pageData,m as default};
