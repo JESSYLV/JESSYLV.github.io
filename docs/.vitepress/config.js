@@ -5,9 +5,8 @@ export default {
         siteTitle: "JessyNoteBook",
         logo: "/logo.jpg",
         nav: [
-            { text: "博客", link: "/articles/moment" },
+            { text: "博客", link: "/articles/创建对象的多种模式&优缺点" },
             { text: "Guide", link: "/guide/" },
-            { text: "GuideTest", link: "/guide/test" }
         ],
         socialLinks: [
             { icon: "github", link: "https://github.com/JESSYLV" },
@@ -49,6 +48,10 @@ export default {
                   {
                     text: "自适应方案",
                     link: "/articles/自适应开发",
+                  },
+                  {
+                    text: "echarts使用总结",
+                    link: "/articles/echarts使用总结",
                   }
                 ],
               }
