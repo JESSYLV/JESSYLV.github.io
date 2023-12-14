@@ -45,6 +45,10 @@ export default {
                   {
                     text: "moment时间格式化用法",
                     link: "/articles/moment",
+                  },
+                  {
+                    text: "自适应方案",
+                    link: "/articles/自适应开发",
                   }
                 ],
               }
