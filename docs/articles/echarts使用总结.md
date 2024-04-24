@@ -31,5 +31,4 @@ option = {
         smooth: true
     }]
 };
-
 ```
