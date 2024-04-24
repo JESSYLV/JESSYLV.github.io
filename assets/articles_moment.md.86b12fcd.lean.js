@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,M as o}from"./chunks/framework.21809aeb.js";const i=JSON.parse('{"title":"Moment时间格式化常见用法","description":"","frontmatter":{},"headers":[],"relativePath":"articles/moment.md"}'),l={name:"articles/moment.md"},e=o("",8),p=[e];function t(c,r,D,y,F,A){return a(),n("div",null,p)}const m=s(l,[["render",t]]);export{i as __pageData,m as default};

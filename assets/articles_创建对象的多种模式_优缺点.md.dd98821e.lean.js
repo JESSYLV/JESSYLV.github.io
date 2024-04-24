@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,M as l}from"./chunks/framework.21809aeb.js";const A=JSON.parse('{"title":"创建对象的多种方式&优缺点","description":"","frontmatter":{},"headers":[],"relativePath":"articles/创建对象的多种模式&优缺点.md"}'),p={name:"articles/创建对象的多种模式&优缺点.md"},o=l("",33),e=[o];function t(c,r,F,y,D,B){return n(),a("div",null,e)}const E=s(p,[["render",t]]);export{A as __pageData,E as default};

@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,M as l}from"./chunks/framework.21809aeb.js";const A=JSON.parse('{"title":"前端模块化","description":"","frontmatter":{},"headers":[],"relativePath":"articles/前端模块化.md"}'),p={name:"articles/前端模块化.md"},o=l("",28),e=[o];function t(c,r,y,F,D,i){return a(),n("div",null,e)}const E=s(p,[["render",t]]);export{A as __pageData,E as default};
